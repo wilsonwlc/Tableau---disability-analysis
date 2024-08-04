@@ -15,7 +15,6 @@
     * **Overall Disability**: Analysed the age-standardised percentage of overall disability.
     * **Disability Severity**: Drilled down to analyse the age-standardised percentages of slight disability and severe disability.
     * **Disability Status and Gender**: Further analysis by disability status (slight vs severe) and by gender (female vs male).
-* The age-standardised percentages of disability for the City of London and Westminster were grouped together, as were the statistics for Cornwall and the Isles of Scilly. Hence, those local authorities were shown grouped on the map.
 
 ## Requirements
 * R with the following packages: `readxl`, `dplyr`, `stringr`, `sf`, `ggplot2`.
